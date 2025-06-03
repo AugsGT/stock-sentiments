@@ -5,3 +5,4 @@ plotly
 feedparser
 transformers
 torch
+streamlit-autorefresh
